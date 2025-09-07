@@ -14,3 +14,5 @@ The main function should take a string as input from the user, convert it to pos
 - Floating point numbers 
 - Negative numbers 
 - Power operation `^` with higher priority than `* / %`
+
+small note: this project I finished it at may 2025 and I put it in a repo at sep. 2025
